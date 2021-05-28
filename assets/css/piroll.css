@@ -3610,7 +3610,7 @@ font-family: 'Lato', sans-serif;
 }
 
 .nk-navbar, .nk-navbar.nk-navbar-solid {
-    background-color: #fff;
+    background-color: #2d0500;
 }
 
 .nk-navbar.nk-navbar-transparent-always {
@@ -3882,7 +3882,7 @@ font-family: 'Lato', sans-serif;
 .nk-navbar.nk-navbar-white-text-on-top.nk-navbar-solid .nk-nav > li > a:hover,
 .nk-navbar.nk-navbar-white-text-on-top.nk-navbar-solid .nk-nav > li.active > a,
 .nk-navbar.nk-navbar-white-text-on-top.nk-navbar-solid .nk-icon-burger {
-    color: #0e0e0e;
+    color: #ffffff;
 }
 
 .nk-navbar.nk-navbar-white-text-on-top .nk-nav-logo .nk-nav-logo-onscroll {
@@ -5635,9 +5635,10 @@ div.nk-error {
 .nk-icon-burger {
     position: relative;
     display: inline-block;
+    margin: 20px;
     width: 20px;
     height: 18px;
-    color: #252525;
+    color: #ffffff;
 }
 
 .nk-icon-burger > span {
