@@ -3611,7 +3611,7 @@ img.rounded {
 }
 
 .nk-navbar, .nk-navbar.nk-navbar-solid {
-    background: radial-gradient(#630a00,#000);
+    background: radial-gradient(#640a00e0,rgb(0, 0, 0)), url(/assets/images/texture.jpg) repeat;
 }
 
 .nk-navbar.nk-navbar-transparent-always {
